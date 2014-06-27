@@ -1,0 +1,24 @@
+{
+  "name": "dtmb",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tochiai/dtmb",
+  "authors": [
+    "Tyler Ochiai <tyler.a.ochiai@gmail.com>"
+  ],
+  "description": "View/Sort Scored Assignments",
+  "keywords": [
+    "hackreactor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.1"
+  }
+}
